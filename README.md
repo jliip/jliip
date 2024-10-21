@@ -1,6 +1,6 @@
 # Hello, vistors! 👋
 
-I am _Li jiayun_.  ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am _Li jiayun_.  I am a undergraduate student in hkust!
 
 ### 😄 interest
 Robotics / Softrobotics / llm / cv
@@ -18,12 +18,12 @@ Robotics / Softrobotics / llm / cv
 - [Instagram]((https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)) 
 
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+You can ask me anything (within reason). I am looking forward to absorb knowledge ,gain experience , collaborate and build amazing products for the world!
 
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/jliip/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>
