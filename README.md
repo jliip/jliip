@@ -3,12 +3,13 @@
 I am _Li jiayun_.  I am a undergraduate student in hkust!
 
 ### 😄 interest
-Robotics / Softrobotics / llm / cv
+Robotics / Softrobotics / Computer vision
 
 ### 🌱 What do I do and What have I done? 
 
-- HKUST UG STUDENT IN ISD
-
+- HKUST UG major in integrative system and design
+- running a project about making ANIME AI-Hardware product using live2d/3d model veits/llm tech
+- running year project about making tennis machine
 
 
 ### ⚡ One line that describes me best? 
