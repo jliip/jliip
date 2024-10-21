@@ -15,7 +15,7 @@ Robotics / Softrobotics / llm / cv
 
 
 ### 📫 How to reach me?
-- [Instagram]((https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)) 
+- [Instagram]([https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr]) 
 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge ,gain experience , collaborate and build amazing products for the world!
