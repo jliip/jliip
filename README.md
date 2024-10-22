@@ -17,7 +17,7 @@ Robotics / Softrobotics / Computer vision
 
 ### 📫 How to reach me?
 - [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
-
+- [personal web](https://jliip.github.io/)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge ,gain experience , collaborate and build amazing products for the world!
 
