@@ -1,4 +1,4 @@
-# Hello, vistors! 👋
+Hello, visitors! 👋
 
 I am _Li jiayun_.  I am a undergraduate student in hkust!
 
