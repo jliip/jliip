@@ -18,8 +18,8 @@ Robotics / Softrobotics / Computer vision
 ### 📫 How to reach me?
 - [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
 - [personal web](https://jliip.github.io/)
-- [personal email](lijiayun1220@outlook.com)
-- [university email](jliip@connect.ust.hk)
+- [personal email](mailto:lijiayun1220@outlook.com)
+- [university email](mailto:jliip@connect.ust.hk)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge ,gain experience , collaborate and build amazing products for the world!
 
