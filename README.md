@@ -9,7 +9,7 @@ Robotics / Softrobotics / Computer vision
 
 - HKUST UG major in integrative system and design
 - running a project about making ANIME AI-Hardware product using live2d/3d model veits/llm tech
-- running year project about making tennis machine
+- [running year project about making tennis machine]( https://github.com/jliip/yolov5_tennisRobot/tree/main?tab=readme-ov-file#aiming-to-achieve-an-unbelivable-product)
 
 
 ### ⚡ One line that describes me best? 
