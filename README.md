@@ -12,11 +12,6 @@ Robotics / Softrobotics / Computer vision
 - [running year project about making tennis machine]( https://github.com/jliip/yolov5_tennisRobot/tree/main?tab=readme-ov-file#aiming-to-achieve-an-unbelivable-product)
 - soft gripper relative research project
 
-### ⚡Research
-- S. Chen, B. Zhang, K. Feng, Y. Wang, J. Li and W. Zhang, "A Novel Geometrical Structure Robot Hand for Linear-parallel Pinching and Coupled Self-adaptive Hybrid Grasping," 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Abu Dhabi, United Arab Emirates, 2024, pp. 3030-3035, doi: 10.1109/IROS58592.2024.10802602. keywords: {Hands;Couplings;Service robots;Gears;Shape;Grasping;Switches;Robot sensing systems;Mechanical systems;Grippers},
-
-
-
 
 ### 📫 How to reach me?
 - [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
