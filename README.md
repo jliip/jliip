@@ -1,7 +1,7 @@
-Hello, visitors! 👋
-
-I am _Li jiayun_.  I am a undergraduate student in hkust!
-
+# Hello, visitors! 👋
+## Welcome to my homepage
+* I am _Li jiayun_.  a undergraduate student in hkust!
+## I am noob now, but trying to be stronger
 ### 😄 interest
 Robotics / Softrobotics / Computer vision
 
@@ -9,6 +9,7 @@ Robotics / Softrobotics / Computer vision
 
 - HKUST UG major in integrative system and design
 - running a project about making ANIME AI-Hardware product using live2d/3d model veits/llm tech
+   - now is a 12 ppl team, on the way to turn into a real company
 - [running year project about making tennis machine]( https://github.com/jliip/yolov5_tennisRobot/tree/main?tab=readme-ov-file#aiming-to-achieve-an-unbelivable-product)
 - soft gripper relative research project
 
@@ -19,7 +20,7 @@ Robotics / Softrobotics / Computer vision
 - [personal email](mailto:lijiayun1220@outlook.com)
 - [university email](mailto:jliip@connect.ust.hk)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge ,gain experience , collaborate and build amazing products for the world!
+feel free to contact me for collaborate, question and intern
 
 
 <p align="center"> 
