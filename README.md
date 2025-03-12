@@ -1,7 +1,7 @@
 # Hello, visitors! 👋
 ## Welcome to my homepage
 * I am _Li jiayun_.  a undergraduate student in hkust!
-## I am noob now, but trying to be stronger
+## I may be a beginner, but I will try my best
 ### 😄 interest
 Robotics / Softrobotics / Computer vision
 
