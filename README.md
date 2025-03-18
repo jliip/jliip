@@ -12,7 +12,7 @@ Robotics / Softrobotics / Computer vision
    - now is a 12 ppl team, on the way to turn into a real company
 - [running year project about making tennis machine]( https://github.com/jliip/yolov5_tennisRobot/tree/main?tab=readme-ov-file#aiming-to-achieve-an-unbelivable-product)
 - soft gripper relative research project
-
+- [My online blog](https://blog.csdn.net/weixin_51636531?type=blog)
 
 ### 📫 How to reach me?
 - [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
