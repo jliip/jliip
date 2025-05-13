@@ -6,7 +6,7 @@
 Robotics / Softrobotics / Computer vision
 
 ### 🌱 What do I do and What have I done? 
-- [Online workflow system](https://yunxinz.github.io/farm-time/)
+- [FramTime! A online workflow system](https://yunxinz.github.io/farm-time/)
 - HKUST UG major in integrative system and design
 - running a project about making ANIME AI-Hardware product using live2d/3d model veits/llm tech
    - now is a 12 ppl team, on the way to turn into a real company
