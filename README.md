@@ -1,26 +1,27 @@
 # Hello, visitors! 👋
 ## Welcome to my homepage
-* I am _Li jiayun_.  a undergraduate student in hkust!
 ## I may be a beginner, but I will try my best
-### 😄 interest
-Robotics / Softrobotics / Computer vision
 
-### 🌱 What do I do and What have I done? 
-- [FramTime! A online workflow system](https://yunxinz.github.io/farm-time/)
-- HKUST UG major in integrative system and design
-- running a project about making ANIME AI-Hardware product using live2d/3d model veits/llm tech
-   - now is a 12 ppl team, on the way to turn into a real company
-- [running year project about making tennis machine]( https://github.com/jliip/yolov5_tennisRobot/tree/main?tab=readme-ov-file#aiming-to-achieve-an-unbelivable-product)
-- soft gripper relative research project
+Currently, I am an undergraduate major in integrative system and design, in HKUST
+### interest
+Robotics / Soft robotics / Computer vision
+
+### What do I do and What have I done? 
+- [FramTime! An online workflow system](https://yunxinz.github.io/farm-time/)
+	- Based on the ISDN3300 course, we developed a pixel art-style web application implementing a to-do list, timer, link-up feature, evil goose function, and QQ Nóngchǎng. Collaborated with Vicky and Xinhan.
+- HIKARI project
+- Hello Balls
+- Soft gripper relative researches
 - [My online blog](https://blog.csdn.net/weixin_51636531?type=blog)
 
-### 📫 How to reach me?
+### How to reach me?
 - [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
 - [personal web](https://jliip.github.io/)
 - [personal email](mailto:lijiayun1220@outlook.com)
 - [university email](mailto:jliip@connect.ust.hk)
 
-feel free to contact me for collaborate, question and intern
+**Feel free to contact me.**
+
 
 
 <p align="center"> 
