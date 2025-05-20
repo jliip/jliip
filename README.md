@@ -2,13 +2,13 @@
 ## Welcome to my homepage
 ## I may be a beginner, but I will try my best
 
-Currently, I am an undergraduate major in integrative system and design, in HKUST
+Currently, I am an undergraduate majoring in integrative system and design, at HKUST
 ### interest
 Robotics / Soft robotics / Computer vision
 
 ### What do I do and What have I done? 
 - [FramTime! An online workflow system](https://yunxinz.github.io/farm-time/)
-	- Based on the ISDN3300 course, we developed a pixel art-style web application implementing a to-do list, timer, link-up feature, evil goose function, and QQ Nóngchǎng. Collaborated with Vicky and Xinhan.
+	- Based on the ISDN3300 course, we developed a pixel art-style web application implementing a to-do list, timer, link-up feature, evil goose, and QQ Nóngchǎng. Collaborated with Vicky and Xinhan.
 - HIKARI project
 - Hello Balls
 - Soft gripper relative researches
