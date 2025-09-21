@@ -24,16 +24,6 @@ Robotics / Soft robotics / Computer vision
 
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/jliip/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-***
-
-
 
 <!--
 **garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
