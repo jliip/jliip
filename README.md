@@ -4,9 +4,7 @@ Currently, I am an undergraduate majoring in integrative system and design, at H
 ### Interest
 Robotics
 ### How to reach me?
-- [Instagram](https://www.instagram.com/jliiiiip?igsh=dHdwcmt6ZnlwOHlk&utm_source=qr)
-- [personal web](https://jliip.github.io/)
-- [personal email](mailto:lijiayun1220@outlook.com)
+- [personal email](mailto:lijiayun1220@hotmail.com)
 - [university email](mailto:jliip@connect.ust.hk)
 
 **Feel free to contact me.**
