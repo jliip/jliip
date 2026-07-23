@@ -11,8 +11,6 @@ I would like to share my thoughts and experiences through my personal website an
 
 Feel free to check out the links below.
 
-Feel free to check below.
-
 - [jliip](https://jliip.github.io/)
 - [CSDN](https://blog.csdn.net/weixin_51636531?type=blog)
 
