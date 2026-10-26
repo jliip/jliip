@@ -1,6 +1,6 @@
 # Hello, visitors! 👋
 ## Welcome to my homepage
-I obtained my BSc degree in Integrative Systems and Design from HKUST.
+I obtained my BSc degree in Integrative Systems and Design from HKUST and am currently pursuing my MPhil degree.
 ## Research Interest
 I am interested in robotic manipulation.
 ### How to reach me?
